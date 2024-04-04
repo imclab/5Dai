@@ -1,13 +1,4 @@
-<!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=391299" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=391299&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @JT5D" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=391299&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <h1 align="center">Live. Open. Intellgence.</h1>
 <h1 align="center">Actionable Insights</h>
@@ -16,6 +7,14 @@
 <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif"
+</a>
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=391299" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=391299&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @JT5D" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=391299&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </a>
 </div>
 
