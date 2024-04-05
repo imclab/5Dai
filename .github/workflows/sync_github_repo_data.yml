@@ -1,0 +1,12 @@
+            - name: Sync GitHub Repo Data
+  # You may pin to the exact commit or the version.
+  # uses: hooopo/repo-track-pipeline@ae58e8468b2e94c3d21a6ef4d54dfa925247d68d
+  uses: hooopo/repo-track-pipeline@v1.0.12
+  with:
+    # Database URL
+    database-url: 
+    # GitHub access token
+    access-token: 
+    # GitHub repository full name
+    repo-full-name: 
+          
