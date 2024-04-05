@@ -1,0 +1,34 @@
+            - name: Auto Deploy Action
+  # You may pin to the exact commit or the version.
+  # uses: lando/auto-deploy-action@6d44b81c1933d7517b1a3488f63452b1e34380f3
+  uses: lando/auto-deploy-action@v3.0.0
+  with:
+    # A GitHub repo slug for the deploy target
+    slug: 
+    # Additional args to pass into package manager install command
+    args: # optional
+    # The branch to auto deploy to.
+    branch: # optional
+    # Toggle to disable deploy. Mostly used for testing.
+    deploy: # optional, default is true
+    # The dirs containing a package.json to update.
+    dirs: # optional, default is ./
+    # The package manager to use.
+    manager: # optional, default is npm
+    # The name of the package.
+    package: # optional
+    # Open a PR instead of directly merging into the `branch` of `slug`.
+    pr: # optional, default is true
+    # The base branch to open the PR against.
+    pr-base: # optional, default is main
+    # Where the updated pacakge lives.
+    registry: # optional, default is npm
+    # The separator between package and version
+    separator: # optional, default is @
+    # A GitHub personal access token with the entire `repo` permission.
+    token: # optional, default is ${{ github.token }}
+    # Toggle to disable updating. Mostly used for testing.
+    update: # optional, default is true
+    # The version of the package.
+    version: # optional
+          
