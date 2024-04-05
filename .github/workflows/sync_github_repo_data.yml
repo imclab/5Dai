@@ -4,9 +4,9 @@
   uses: imclab/5Dai
   with:
     # Database URL
-    database-url: 
+    database-url: DATABASE_URL
     # GitHub access token
-    access-token: 
+    access-token: ACCESS_TOKEN
     # GitHub repository full name
-    repo-full-name: 
+    repo-full-name: REPO_FULL_NAME
           
