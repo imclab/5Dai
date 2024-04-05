@@ -3,8 +3,11 @@
 <h1 align="center">Actionable Insights</h>
 
 <div align="center">
+
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif">
+
+<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=391299" target="_blank" style="display: block" align="center">
   <picture>
@@ -12,8 +15,10 @@
     <img alt="Dashboard stats of @JT5D" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=391299&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-</div>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+</div>
 
 <h4 align="center">
   <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
@@ -65,7 +70,7 @@ For more charming widgets, please [Check it out 👉](https://next.ossinsight.io
   
 Data Explorer provides a new way to discover trends and insights into 5+ billion rows of GitHub data.
 
-Simply ask your question in natural language and Data Explorer will generate SQL, query the data, and present the results visually. It's built with <a href="https://tidbcloud.com/channel?utm_source=ossinsight&utm_medium=referral&utm_campaign=chat2query_202301&utm_content=github_readme">Chat2Query</a>, a GPT-powered SQL generator in TiDB Cloud. 
+Simply ask your question in natural language and Data Explorer will generate SQL, query the data, and present the results visually. It's built with <a href="https://tidbcloud.com/channel?utm_source=ossinsight&utm_medium=referral&utm_campaign=chat2query_202301&utm_content=github_readme">Chat2Query</a>, a GPT-powered SQL generator in TiDB Cloud.
 
 Examples:
 
@@ -88,13 +93,12 @@ Examples:
   </a>
 </div>
 
-
   **Examples**:
   
-  * [Collection: Web Framework](https://ossinsight.io/collections/web-framework)
-  * [Collection: Artificial Intelligence](https://ossinsight.io/collections/artificial-intelligence)
-  * [Collection: Web3](https://ossinsight.io/collections/web3)
-  * [More](https://ossinsight.io/collections/open-source-database) ...
+* [Collection: Web Framework](https://ossinsight.io/collections/web-framework)
+* [Collection: Artificial Intelligence](https://ossinsight.io/collections/artificial-intelligence)
+* [Collection: Web3](https://ossinsight.io/collections/web3)
+* [More](https://ossinsight.io/collections/open-source-database) ...
 
   **Welcome to add collections**
 
@@ -146,6 +150,7 @@ Insights about the **code update frequency & degree of popularity** from reposit
 </div>
 
 **Examples**:
+
 * [React](https://ossinsight.io/analyze/facebook/react)
 * [TiDB](https://ossinsight.io/analyze/pingcap/tidb)
 * [web3.js](https://ossinsight.io/analyze/web3/web3.js)
@@ -157,6 +162,7 @@ Insights about the **code update frequency & degree of popularity** from reposit
 Compare two projects using the repo metrics mentioned in **Repository Analytics**.
 
 **Examples**:
+
 * [Compare Vue and React](https://ossinsight.io/analyze/vuejs/vue?vs=facebook/react)
 * [Compare CockroachDB and TiDB](https://ossinsight.io/analyze/pingcap/tidb?vs=cockroachdb/cockroach)
 * [Compare PyTorch and TensorFlow](https://ossinsight.io/analyze/pytorch/pytorch?vs=tensorflow/tensorflow)
