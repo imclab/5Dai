@@ -1,20 +1,10 @@
 
-
 <h1 align="center">Live. Open. Intellgence.</h1>
 <h1 align="center">Actionable Insights</h>
 
-
 <div align="center">
 <a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif"
-</a>
-
-
-
-
-
-
-
+  <img src="/web/static/img/screenshots/homepage.gif">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=391299" target="_blank" style="display: block" align="center">
   <picture>
